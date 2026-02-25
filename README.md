@@ -1,1 +1,1 @@
-# testsetetst
+<img src="animation.svg">
