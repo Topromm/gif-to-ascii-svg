@@ -14,7 +14,7 @@ def main():
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
         data = f.read()
 
-    # Replace @ and % with spaces
+    # Replace @ and % with spaces (edit to clear whatever you like)
     cleaned = data.replace("@", " ").replace("%", " ")
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
@@ -24,3 +24,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
