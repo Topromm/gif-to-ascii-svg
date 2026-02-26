@@ -5,7 +5,7 @@ I created this project to showcase how you can turn any GIF or video into a full
 The final SVG plays directly inside GitHub's README without JavaScript, images, or external hosting. All you need is Python, rest is extra.
 
 ## Planned Features
-- Make an interface that let's you easily dial your settings 
+- Make an interface that let's you dial your settings & drag and drop files 
 - Allow user to stack animations in an output folder, instead of overwriting them
 - Add several different building methods that can be tried if build fails
 - Make our own GIF/Video → ASCII Converter
