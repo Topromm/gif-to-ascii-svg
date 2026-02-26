@@ -68,9 +68,7 @@ Now paste your previously applied settings from the svg_build.py into svg_build_
 Then run svg_build_clean.py to create your own animation.svg
 
 ---
-<img src="catanimation.svg">
-<img src="skullanimation.svg">
-
+<img src="catanimation.svg"><img src="skullanimation.svg">
 ---
 
 ## License
