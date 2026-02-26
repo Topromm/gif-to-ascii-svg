@@ -11,8 +11,6 @@ X_POS = 470
 Y_START = 0
 LINE_HEIGHT = 15                # vertical spacing between tspans
 
-# Your ASCII block is ~1365px tall (91 * 15)
-# To fit inside a 600px SVG, we scale it down:
 SCALE = 600 / (FRAME_HEIGHT * LINE_HEIGHT)  # ≈ 0.44
 
 
