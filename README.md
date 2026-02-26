@@ -4,6 +4,12 @@
 I created this project to showcase how you can turn any GIF or video into a fully animated SVG made entirely out of ASCII art.  
 The final SVG plays directly inside GitHub's README without JavaScript, images, or external hosting. All you need is Python, rest is extra.
 
+## Planned Features
+- Make an interface that let's you easily dial your settings 
+- Allow user to stack animations in an output folder, instead of overwriting them
+- Add several different building methods that can be tried if build fails
+- Make our own GIF/Video → ASCII Converter
+
 Below is the full process so anyone can recreate it.
 
 ---
