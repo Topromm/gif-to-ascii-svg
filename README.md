@@ -6,19 +6,16 @@ The final SVG plays directly inside GitHub's README without JavaScript, images, 
 
 Below is the full process so anyone can recreate it.
 
----
 
 ## 1. Start with any video
 Pick a short clip. High contrast works best for ASCII.
 
----
 
 ## 2. Convert the video to a GIF
 Use this tool: https://ezgif.com/video-to-gif
 
 This gives you a frame‑by‑frame animation that ASCII tools can process.
 
----
 
 ## 3. Convert the GIF into ASCII frames
 Use: https://asciigif.com/ (shoutout to [JayRichh](https://github.com/JayRichh/ascii) for creating the website)
@@ -36,12 +33,10 @@ In my case:
 
 You should add your line height, character width and any other preferred values at the top of svg_build.py and svg_build_clean.py
 
----
 
 ## 4. build the SVG animation
 Run svg_build.py to create your own animation.svg that you can insert into your README.
 
----
 
 ## 5. (Optional) Clean the ASCII file
 ASCII files often contain heavy characters like @ and % that dominate the background of the image.
