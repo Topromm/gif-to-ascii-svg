@@ -1,5 +1,5 @@
 # GIF/Video → Animated ASCII SVG (GitHub‑Friendly)
-<img src="animation.svg">
+<img src="catanimation.svg">
 
 I created this project to showcase how you can turn any GIF or video into a fully animated SVG made entirely out of ASCII art.  
 The final SVG plays directly inside GitHub's README without JavaScript, images, or external hosting. All you need is Python, rest is extra.
