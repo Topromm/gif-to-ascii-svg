@@ -1,4 +1,4 @@
-# ASCII Video → Animated SVG (GitHub‑Friendly)
+# GIF/Video → Animated ASCII SVG (GitHub‑Friendly)
 <img src="animation.svg">
 
 I created this project to showcase how you can turn any video into a fully animated SVG made entirely out of ASCII art.  
