@@ -1,4 +1,5 @@
 # ASCII Video → Animated SVG (GitHub‑Friendly)
+<img src="animation.svg">
 
 I created this project to showcase how you can turn any video into a fully animated SVG made entirely out of ASCII art.  
 The final SVG plays directly inside GitHub's README without JavaScript, images, or external hosting. You just need to have Python installed.
@@ -48,7 +49,3 @@ I've included an svg_cleaner.py that removes every @ and % from ALL frames of th
 You can edit said svg_cleaner.py to remove or replace whatever characters you want.
 This will create a separate copy of your frames called frames_clean.txt
 Then run svg_build_clean.py to create your own animation.svg
-
-
-
-<img src="animation.svg">
