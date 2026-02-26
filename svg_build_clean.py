@@ -11,8 +11,6 @@ X_POS = 470
 Y_START = 0
 LINE_HEIGHT = 15                 # vertical spacing between tspans
 
-# Original ASCII height = 91 * 15 = 1365px
-# Fit inside 600px SVG → scale Y
 SCALE_Y = 600 / (FRAME_HEIGHT * LINE_HEIGHT)   # ≈ 0.44
 
 # You can widen the animation by increasing SCALE_X
@@ -103,3 +101,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
