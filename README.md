@@ -20,7 +20,15 @@ This gives you a frame‑by‑frame animation that ASCII tools can process.
 
 ---
 
-## 3. Convert the GIF into ASCII frames
+## 3. Create a URL for the GIF
+The next tool we will be using will need the GIF in a URL format to convert it to ASCII art.
+Personally, I uploaded my GIF to Giphy, I make it fast and easy using a tool like [ShareX](https://getsharex.com/)
+
+In a pinch, you could also share the GIF to yourself on Discord, and copy the GIF link from there.
+
+---
+
+## 4. Convert the GIF into ASCII frames
 Use: https://asciigif.com/ (shoutout to [JayRichh](https://github.com/JayRichh/ascii) for creating the website)
 
 Choose "ASCII text" as the output format
@@ -38,12 +46,12 @@ You should add your line height, character width and any other preferred values 
 
 ---
 
-## 4. build the SVG animation
+## 5. build the SVG animation
 Run svg_build.py to create your own animation.svg that you can insert into your README.
 
 ---
 
-## 5. (Optional) Clean the ASCII file
+## 6. (Optional) Clean the ASCII file
 ASCII files often contain heavy characters like @ and % that dominate the background of the image.
 I've included an svg_cleaner.py that removes every @ and % from ALL frames of the animation.
 You can edit said svg_cleaner.py to remove or replace whatever characters you want.
