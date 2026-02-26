@@ -22,7 +22,7 @@ This gives you a frame‑by‑frame animation that ASCII tools can process.
 
 ## 3. Create a URL for the GIF
 The next tool we will be using will need the GIF in a URL format to convert it to ASCII art.
-Personally, I uploaded my GIF to Giphy, I make it fast and easy using a tool like [ShareX](https://getsharex.com/)
+Personally, I uploaded my GIF to Imgur, I make it fast and easy using a tool like [ShareX](https://getsharex.com/)
 
 In a pinch, you could also share the GIF to yourself on Discord, and copy the GIF link from there.
 
